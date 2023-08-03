@@ -1,0 +1,8 @@
+This project teaches:
+
+1) Personally Identifiable Information (PII)
+
+2) How to implement a log filter that will obfuscate PII fields
+
+3) How to encrypt a password and check the validity of an input password
+How to authenticate to a database using environment variables
